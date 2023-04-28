@@ -7,7 +7,7 @@
 * Return: 0
 */
 
-int covert_day main(void)
+int main(void)
 {
     int month;
     int day;
@@ -25,3 +25,4 @@ int covert_day main(void)
 
     return (0);
 }
+
